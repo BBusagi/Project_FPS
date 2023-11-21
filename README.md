@@ -5,7 +5,7 @@
 [Algo_game](./System/CMDgame_CMDCS/CMDgame/Program.cs)  
 
 [Unity_path](System/ProjectFPS_U3D/ProjectFPS_Android/Assets/Scripts)  
-[Unity_main](System\ProjectFPS_U3D\ProjectFPS_Android\Assets\Scripts\Gamemanage.cs)
+[Unity_main](System/ProjectFPS_U3D/ProjectFPS_Android/Assets/Scripts/Gamemanage.cs)
 
 
 **Unity3D project file**  
