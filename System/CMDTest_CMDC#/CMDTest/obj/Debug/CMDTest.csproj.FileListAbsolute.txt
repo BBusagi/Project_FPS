@@ -1,0 +1,7 @@
+F:\c\CMDTest\CMDTest\bin\Debug\CMDTest.exe.config
+F:\c\CMDTest\CMDTest\bin\Debug\CMDTest.exe
+F:\c\CMDTest\CMDTest\bin\Debug\CMDTest.pdb
+F:\c\CMDTest\CMDTest\obj\Debug\CMDTest.csprojAssemblyReference.cache
+F:\c\CMDTest\CMDTest\obj\Debug\CMDTest.csproj.CoreCompileInputs.cache
+F:\c\CMDTest\CMDTest\obj\Debug\CMDTest.exe
+F:\c\CMDTest\CMDTest\obj\Debug\CMDTest.pdb

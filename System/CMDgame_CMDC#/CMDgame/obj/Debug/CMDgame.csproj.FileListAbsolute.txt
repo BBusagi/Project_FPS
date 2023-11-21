@@ -1,0 +1,7 @@
+F:\c\CMDgame\CMDgame\bin\Debug\CMDgame.exe.config
+F:\c\CMDgame\CMDgame\bin\Debug\CMDgame.exe
+F:\c\CMDgame\CMDgame\bin\Debug\CMDgame.pdb
+F:\c\CMDgame\CMDgame\obj\Debug\CMDgame.csprojAssemblyReference.cache
+F:\c\CMDgame\CMDgame\obj\Debug\CMDgame.csproj.CoreCompileInputs.cache
+F:\c\CMDgame\CMDgame\obj\Debug\CMDgame.exe
+F:\c\CMDgame\CMDgame\obj\Debug\CMDgame.pdb

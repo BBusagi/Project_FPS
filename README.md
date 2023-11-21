@@ -1,11 +1,9 @@
 ## **User: ZHOU LU (Riku)  <br>  Project Name: Game design and programming based on Android** ##
 
 
-**ProjectFPS**
-Unity generates .exe file
-
-**ProjectFPS_Android_V1.apk**
-Mobile APK file
+**ProjectFPS exe file**  
+[PC](./System/ProjectFPS_EXE/ProjectFPS.exe) ProjectFPS.exe  
+[Android](./System/ProjectFPS_Android.apk) ProjectFPS_Android.apk
 
 **Thesis.pdf**
 Thesis (CN)
